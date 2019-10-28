@@ -1,5 +1,5 @@
 body{
-	background: url("../images/background.jpg");
+	background: url("../images/cool-colors-abstract-hand-painted-background_23-2148293333.jpg");
 	background-size: 100%;
     background-repeat: no-repeat;
     color: black;
@@ -13,7 +13,7 @@ img {
 }
 .btn {
     /* adding spacing between each button*/
-    margin: 3px;
+    margin: 6px;
     background-color: #999999;
     border-color: #fff;
 }
@@ -33,14 +33,5 @@ img {
 .jumbotron .h1, .jumbotron h1 {
     text-align: center;
 }
-#copyright{
-	font-size: 14px;
-}
-div#footer {
-	clear: both;
-	margin-top: 40px;
-	position: center;
-	bottom: 0;
-	left: 0;
-	text-align: center;
-}
+
+
